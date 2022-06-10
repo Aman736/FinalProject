@@ -1,4 +1,2 @@
-# FinalProject
-Its  my final project for FRT program
-# Azure Link
-https://nice-tree-0d14b3f10.1.azurestaticapps.net/about.html
+## Future Ready talent project by Md Rizwan
+Here I created a Online Study platform web app named Online-Study that helps to find the 
