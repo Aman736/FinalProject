@@ -7,7 +7,7 @@ https://nice-tree-0d14b3f10.1.azurestaticapps.net/
 ## Home page:
 ![home1](https://user-images.githubusercontent.com/72147796/172993682-ae95e527-948f-420d-9813-36d685238912.png)
 ![home2](https://user-images.githubusercontent.com/72147796/172993709-344784a1-9969-4e2c-95e0-49b5d7ec59e4.png)
-## Dark mode:
+# Dark mode:
 ![home3dark](https://user-images.githubusercontent.com/72147796/172993734-26c5d4e6-79e0-4009-aab8-58db16ad3409.png)
 
 ## About Page :
