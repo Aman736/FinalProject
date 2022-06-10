@@ -2,7 +2,7 @@
 Here I created a Online Study Platform Web app named online-study that help the student and faculty both to find technical training for learning at lowest price.
 
 ## My website Link :
-https://nice-tree-0d14b3f10.1.azurestaticapps.net/about.html
+https://nice-tree-0d14b3f10.1.azurestaticapps.net/
 
 ## Home page:
 ![home1](https://user-images.githubusercontent.com/72147796/172993682-ae95e527-948f-420d-9813-36d685238912.png)
